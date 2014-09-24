@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="207365" started-at="2014-09-24T10:58:25Z" finished-at="2014-09-24T11:01:52Z">
+    <groups>
+    </groups>
+    <test name="test1" duration-ms="205715" started-at="2014-09-24T10:58:25Z" finished-at="2014-09-24T11:01:51Z">
+      <class name="Tests.Goibibo">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Tests.Goibibo@49f9fa]" name="beforeMethod" is-config="true" duration-ms="8117" started-at="2014-09-24T16:28:25Z" finished-at="2014-09-24T16:28:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:Tests.Goibibo@49f9fa]" name="Test1" duration-ms="33978" started-at="2014-09-24T16:28:33Z" finished-at="2014-09-24T16:29:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Tests.Goibibo@49f9fa]" name="beforeMethod" is-config="true" duration-ms="3381" started-at="2014-09-24T16:29:07Z" finished-at="2014-09-24T16:29:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:Tests.Goibibo@49f9fa]" name="Test2" duration-ms="131145" started-at="2014-09-24T16:29:10Z" finished-at="2014-09-24T16:31:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Tests.Goibibo@49f9fa]" name="beforeMethod" is-config="true" duration-ms="3050" started-at="2014-09-24T16:31:21Z" finished-at="2014-09-24T16:31:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:Tests.Goibibo@49f9fa]" name="Test3" duration-ms="26026" started-at="2014-09-24T16:31:25Z" finished-at="2014-09-24T16:31:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- Tests.Goibibo -->
+    </test> <!-- test1 -->
+    <test name="test2" duration-ms="0" started-at="2014-09-24T11:01:52Z" finished-at="2014-09-24T11:01:52Z">
+      <class name="Tests.TestBase">
+        <test-method status="PASS" signature="intialize()[pri:0, instance:Tests.TestBase@928095]" name="intialize" is-config="true" duration-ms="49" started-at="2014-09-24T16:28:25Z" finished-at="2014-09-24T16:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+      </class> <!-- Tests.TestBase -->
+    </test> <!-- test2 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
